@@ -96,7 +96,6 @@ class Shoptimiser:
             <li>You can find your list in the <code>/shopping_list_exports</code> folder.</li>
         </ul>
         <br>
-        <p style='color: #7F8C8D; font-size: 11px;'><i>Tip: Click individual column headers in the application to sort list rows manually.</i></p>
         <br>
         <h3 style='color: #F39C12;'>Current Prototype Limitations</h3>
         <p style='color: #BDC3C7; margin-bottom: 5px;'>This project is currently a prototype, so it experiences a few limitations:</p>
