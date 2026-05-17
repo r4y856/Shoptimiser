@@ -1,0 +1,18 @@
+product_name,product_ref,product_title,product_price,store,shopping_frequency
+watermelon,1,Watermelon,2.99,Aldi,2
+raspberries,2,British Raspberries,1.89,Aldi,2
+blackberries,3,British Blackberries,1.99,Aldi,2
+pineapple,4,Tesco Pineapple,0.98,Tesco,1
+papaya,7,Tesco Ripe Papaya Each,2.0,Tesco,2
+broccoli,8,ASDA Tender & Crunchy Broccoli,0.79,Asda,2
+green beans,10,Morrisons Savers Green Beans,0.77,Morrisons,2
+carrots,14,Tesco Carrots 1Kg,0.69,Tesco,2
+red peppers,19,ASDA Iceberg Lettuce,0.89,Asda,2
+lettuce,20,Tesco Little Gem Lettuce Twin Pack,0.77,Tesco,2
+cucumber,21,Cucumber,0.79,Aldi,2
+dairy free yoghurt,23,Arla LactoFREE Natural Yogurt,1.25,Morrisons,2
+chickpeas,26,Tesco Chickpeas In Water 400G,0.45,Tesco,2
+organic eggs,28,British Organic Eggs 6 Pack,2.25,Aldi,1
+dark choc,29,ASDA Organic Fresh Semi Skimmed British Milk 1 Litre,1.54,Asda,2
+organic milk,30,Morrisons Organic Semi-Skimmed Milk 1L,1.55,Morrisons,1
+salmon,36,ASDA Grated Mozzarella 250g,2.45,Asda,2

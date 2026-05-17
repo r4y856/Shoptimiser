@@ -1,0 +1,8 @@
+PySide6
+pandas
+numpy
+duckdb
+matplotlib
+playwright
+seleniumbase
+beautifulsoup4

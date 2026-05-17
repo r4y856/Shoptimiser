@@ -1,0 +1,151 @@
+reference_id, store, product_title, product_price
+1, Asda, ASDA Refreshingly Juicy Watermelon, £3.47
+2, Asda, Exceptional by ASDA Exceptional by ASDA Hand Picked Raspberries 150g, £2.97
+3, Asda, ASDA Sweet & Juicy Blackberries, £2.14
+4, Asda, ASDA Giant Pineapple, £1.88
+5, Asda, ASDA Royal Gala Apples, £1.67
+6, Asda, JUST ESSENTIALS by ASDA Oranges, £0.99
+7, Asda, ASDA Delicate & Smooth Papaya, £2.02
+8, Asda, ASDA Tender & Crunchy Broccoli, £0.79
+9, Asda, ASDA Light & Nutty Cauliflower, £1.19
+10, Asda, ASDA Mild & Sweet Spring Greens, £0.84
+11, Asda, ASDA Fluffy & Golden Baking Potatoes 2kg, £1.78
+12, Asda, ASDA Creamy & Flavoursome Sweet Potatoes 1kg, £1.24
+13, Asda, ASDA Crunchy & Sweet Carrots 1kg, £0.69
+14, Asda, ASDA Sweet & Earthy Parsnips 500g, £0.74
+15, Asda, ASDA Aubergine, £0.99
+16, Asda, ASDA Courgettes (Typically 0.35KG), £0.78
+17, Asda, ASDA Brown Onions 1kg, £0.99
+18, Asda, ASDA Loose Red Pepper, £0.70
+19, Asda, ASDA Iceberg Lettuce, £0.89
+20, Asda, ASDA Whole Cucumber, £0.99
+21, Asda, Exceptional by ASDA Authentic Fat Free Greek Yogurt 500g, £2.30
+22, Asda, Plant Based by ASDA Plant Based by  Plain Soya Yogurt Alternative 500g, £1.24
+23, Asda, None, None
+24, Asda, Free From by Asda Bran Flakes 300g, £2.08
+25, Asda, ASDA Chickpeas in Water 400g, £0.52
+26, Asda, Exceptional by ASDA Exceptional by  Spanish Forest Honey 340g, £3.04
+27, Asda, ASDA Organic Organic 6 Free Range Mixed Eggs 328g, £2.47
+28, Asda, Lindt Excellence Intense Dark 90% Cocoa Chocolate Bar 100g, was£3.48£3.00
+29, Asda, ASDA Organic Fresh Semi Skimmed British Milk 1 Litre, £1.54
+30, Asda, ASDA Cashews 200g, £1.98
+31, Asda, ASDA Pistachios in Shell 200g, £2.23
+32, Asda, ASDA Walnuts 200g, £2.23
+33, Asda, ASDA Free From Free From by  Penne 500g, £0.71
+34, Asda, ASDA Free From Free From Spaghetti 500g, £0.71
+35, Asda, ASDA 2 Flavoursome Salmon Fillets 260g, £4.70
+36, Asda, ASDA Grated Mozzarella 250g, £2.45
+1, Tesco, Tesco Watermelon, £3.55
+2, Tesco, Tesco Raspberries 150G, £2.50
+3, Tesco, Tesco Blackberries 150G, £2.85
+4, Tesco, Tesco Pineapple, £0.98
+5, Tesco, Tesco Gala Apples, £1.80
+6, Tesco, Suntrail Farms Price Orange Minimum 5 Pack, £0.99
+7, Tesco, Tesco Ripe Papaya Each, £2.00
+8, Tesco, None, None
+9, Tesco, Tesco Cauliflower Each, £1.19
+10, Tesco, Tesco Green Beans 220G, £0.85
+11, Tesco, Tesco Savoy Cabbage Each, £0.75
+12, Tesco, Tesco Maris Piper Potatoes 2Kg, £1.80
+13, Tesco, Tesco Sweet Potatoes 1Kg, £1.19
+14, Tesco, Tesco Carrots 1Kg, £0.69
+15, Tesco, Perfectly Imperfect Parsnips 500G, £0.59
+16, Tesco, Tesco Aubergine Each, £0.99
+17, Tesco, Tesco Courgettes, £1.39
+18, Tesco, Tesco Brown Onions 1Kg, £0.99
+19, Tesco, Tesco Sweet Peppers 500G, £2.10
+20, Tesco, Tesco Little Gem Lettuce Twin Pack, £0.77
+21, Tesco, Tesco Whole Cucumber Each, £0.99
+22, Tesco, Tesco Finest Greek Yogurt 500G, £2.30
+23, Tesco, Tesco Free From Soya Alternative to Greek Style Yogurt 400g, £1.50
+24, Tesco, Nestlé Go Free Gluten Free Cornflakes Breakfast Cereal 375g, £2.50
+25, Tesco, Tesco Free From Branflakes 300G., £2.10
+26, Tesco, Tesco Chickpeas In Water 400G, £0.45
+27, Tesco, Tesco Finest Spanish Forest Honey 340g, £4.35
+28, Tesco, Tesco Mixed Sized Organic Eggs 6 Pack, £2.80
+29, Tesco, Tesco Finest Peru Dark Chocolate 85% 100g, £2.40
+30, Tesco, Tesco Organic British Semi Skimmed Milk 1.136L 2 Pint, £2.00
+31, Tesco, Tesco Cashew Nuts 200G, £2.85
+32, Tesco, Tesco Pistachios 200g, £2.85
+33, Tesco, Tesco Walnuts 200G, £2.75
+34, Tesco, Tesco Free From Penne Pasta 500G, £0.75
+35, Tesco, Tesco Free From Spaghetti 500G, £0.75
+36, Tesco, Tesco 2 Boneless Salmon Fillets 260G, £4.80
+37, Tesco, Tesco 2 Boneless Sea Bass Fillets 180G, £5.95
+38, Tesco, Tesco Grated Mozzarella 250G, £2.55
+1, Aldi, Watermelon, £2.99
+2, Aldi, British Raspberries, £1.89
+3, Aldi, British Blackberries, £1.99
+4, Aldi, None, None
+5, Aldi, Wonky Apples, £0.99
+6, Aldi, Oranges, £1.39
+7, Aldi, None, None
+8, Aldi, British Broccoli, £0.79
+9, Aldi, British Cauliflower, £1.19
+10, Aldi, Green Beans, £0.85
+11, Aldi, Savoy Cabbage, £0.75
+12, Aldi, None, None
+13, Aldi, Sweet Potatoes, £1.19
+14, Aldi, Carrots, £0.69
+15, Aldi, British Parsnips, £0.74
+16, Aldi, Aubergine, £0.99
+17, Aldi, Courgettes, £1.39
+18, Aldi, Brown Onions, £0.99
+19, Aldi, Mixed Peppers, £1.79
+20, Aldi, British Little Gem Lettuce 2 Pack, £0.77
+21, Aldi, Cucumber, £0.79
+22, Aldi, Greek Yoghurt 10% Fat, £1.99
+23, Aldi, None, None
+24, Aldi, None, None
+25, Aldi, None, None
+26, Aldi, Chickpeas, £0.45
+27, Aldi, Manuka Honey, £4.15
+28, Aldi, British Organic Eggs 6 Pack, £2.25
+29, Aldi, Dark 85% Cocoa Chocolate, £2.49
+30, Aldi, None, None
+31, Aldi, Cashew Nuts, £1.69
+32, Aldi, Californian Roasted Pistachios, £1.69
+33, Aldi, Walnut Halves, £1.65
+34, Aldi, None, None
+35, Aldi, None, None
+36, Aldi, Boneless Salmon Fillets 2 Pack, £3.59
+37, Aldi, Boneless Mediterranean Sea Bass Fillets 2 Pack, £3.79
+38, Aldi, Grated Mozzarella, £1.99
+1, Morrisons, Morrisons Watermelon, £3.55
+2, Morrisons, Morrisons Raspberries 150g Punnet, £2.15
+3, Morrisons, Morrisons Blackberries 150g Punnet, £2.60
+4, Morrisons, Fyffes Ready to Eat Pineapple, £0.98
+5, Morrisons, Morrisons Royal Gala Apples   6 Pack, £1.89
+6, Morrisons, Morrisons Oranges 5 Pack, £1.39
+7, Morrisons, Morrisons Formosa Papaya Fruit, £4.50
+8, Morrisons, Morrisons Broccoli  375g, £0.82
+9, Morrisons, Morrisons Medium Cauliflower, £1.19
+10, Morrisons, Morrisons Savers Green Beans, £0.77
+11, Morrisons, Morrisons Spring Greens 500g, £0.90
+12, Morrisons, Morrisons British Maris Piper Potatoes 2kg, £1.95
+13, Morrisons, Morrisons Sweet Potatoes  1kg, £1.19
+14, Morrisons, Morrisons British Carrots 1kg, £0.69
+15, Morrisons, Morrisons Parsnips 500g, £0.74
+16, Morrisons, Morrisons Purple Aubergine, £0.99
+17, Morrisons, Morrisons Courgettes, £1.39
+18, Morrisons, Morrisons British Brown Onions   1kg, £0.99
+19, Morrisons, Morrisons Greengrocer Sweet Peppers 3 Pack (Colours May Vary), £2.10
+20, Morrisons, Morrisons Little Gem Lettuce  2 Pack, £0.77
+21, Morrisons, Morrisons Whole Cucumber, £0.99
+22, Morrisons, Morrisons The Best Greek Yogurt 10% Fat 500g, £2.29
+23, Morrisons, Arla LactoFREE Natural Yogurt, £1.25£1.85
+24, Morrisons, Nestle Go Free Gluten Free Cornflakes Cereal 375g, £2.00£2.50
+25, Morrisons, None, None
+26, Morrisons, Morrisons Chickpeas In Water (400g), £0.45
+27, Morrisons, Morrisons The Best Spanish Forest Honey, £4.35
+28, Morrisons, Purely Organic 10 Mixed Size Eggs, £5.20
+29, Morrisons, Lindt Excellence Dark 85% Cocoa Chocolate Bar 100g, £3.50
+30, Morrisons, Morrisons Organic Semi-Skimmed Milk 1L, £1.55
+31, Morrisons, Morrisons The Best Roasted Jumbo Cashews   150g, £2.75
+32, Morrisons, None, None
+33, Morrisons, Morrisons Walnut Pieces 150g, £2.00
+34, Morrisons, Rummo Gluten Free Mezzi Rigatoni No.51 Pasta, £2.00£2.50
+35, Morrisons, Morrisons Free From Spaghetti 500g, £0.96£1.20
+36, Morrisons, Morrisons 2 Salmon Fillets 220g, £4.06
+37, Morrisons, Morrisons 2 Sea Bass Fillets 180g, £5.50
+38, Morrisons, Morrisons Grated Mozzarella 240g, £2.75
