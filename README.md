@@ -1,7 +1,7 @@
 # Shoptimiser
 Raw source code files for my personal project Shoptimiser - a supermarket scraper and shopping list optimisation program
 
-This project is currently intended for my own use in optimising my own shopping habits. I have added the project to GitHub as a testament to several new skils I have learned, such as:
+This project is currently intended for my own use in optimising my own shopping habits. I have added the project to GitHub as a testament to several new data analytics skils I have learned, such as:
 
 - web scraping
 - advanced file handling
@@ -15,7 +15,7 @@ This project is currently intended for my own use in optimising my own shopping 
 
 if unsuccessful, try _python -m pip install -r requirements.txt_  
    
-if still unsuccessful, please try installing each module manually by looking at the module names at the top of each script (data_collection.py, data_transformation.py, shoptimiser_controller.py
+if still unsuccessful, please try installing each module manually by looking at the module names at the top of each script (data_collection.py, data_transformation.py, shoptimiser_controller.py)
 
 2. Install the web-scraping browsers (Required for Playwright):
    _playwright install_
