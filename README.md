@@ -44,7 +44,10 @@ You can find your list in the /shopping_list_exports folder.
 
 # Current Prototype Limitations
 
-This project is currently a prototype, so it experiences a few limitations:The shopping list and the shopping period (weekly, monthly, etc.) are currently hard-coded.If any product is not available, no list will be generated. This will not be an issue if you choose at least three of the four possible supermarkets.
+This project is currently a prototype, so it experiences a few limitations: 
+
+- The shopping list and the shopping period (weekly, monthly, etc.) are currently hard-coded.
+- Out of the stores you select, if all supermarkets have one or more products unavailable, then no list will be generated. This will not be an issue if you choose at least three of the four possible supermarkets.
 
 
 
