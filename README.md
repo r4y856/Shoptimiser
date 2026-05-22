@@ -8,19 +8,22 @@ This project is currently intended for my own use in optimising my own shopping 
 - data cleaning and aggregation using pandas and numpy
 - UI creation using Pyside6
 
+As a novice, I mistakenly pushed the whole project as one commit. For future projects I will incrementally push my project updates.
+For now, I have added a seperate readme called _dev-retrospective_ which highlights some notable insights and challenging situations from prpject development.
+
 # How to run the software (from the command line):
 
 1. Install the dependencies:
    _pip install -r requirements.txt_
 
-if unsuccessful, try _python -m pip install -r requirements.txt_  
+If unsuccessful, try _python -m pip install -r requirements.txt_  
    
-if still unsuccessful, please try installing each module manually by looking at the module names at the top of each script (data_collection.py, data_transformation.py, shoptimiser_controller.py)
+If still unsuccessful, please try installing each module manually by looking at the module names at the top of each script (data_collection.py, data_transformation.py, shoptimiser_controller.py)
 
 2. Install the web-scraping browsers (Required for Playwright):
    _playwright install_
    
-if unsuccessful, try _python -m playwright install_ 
+If unsuccessful, try _python -m playwright install_ 
 
 5. Launch the application:
    python main.py
@@ -35,18 +38,18 @@ As more shopping lists are generated, this product history can be used in data a
 
 2. Configure Your Search Constraints
 
-Shopping Frequency: Select how often you buy groceries (e.g., weekly, biweekly). This alters the pricing scale models behind the scenes.Superstores: Check at least one location from the options list. The algorithm will filter items exclusive to these companies.
+Select how often you buy groceries (e.g., weekly, biweekly). This alters the pricing scale models behind the scenes.
+Check at least one location from the options list. The algorithm will filter items exclusive to these companies.
 
 3. Process and View Optimization Results
 
-Click the Create Button to execute calculations. If settings are missing, a system safety warning popup will appear.
-Review your filtered choices in the data grid table on the right side of the interface shell. Rows are sorted automatically by Shop, then by Price.
+Clicking the 'Create Shopping List' button will generate several shopping lists based on subsets of your shopping list selection.
+A popup will appear listing all these lists alongside their total cost. You are free to choose a list which balances cost with the number of stores to visit. 
 
 4. Export Shopping List
 
-Click the Export Button to save your shopping list in PNG format.
+Click the Export Button to save your shopping list as a PNG
 You can find your list in the /shopping_list_exports folder.
-
 
 # Current Prototype Limitations
 
